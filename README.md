@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a Front-end developer
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jovid1242&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
+    align="center" width="100%" />
  
 <p style="margin: 40px 0">
    <a href="https://github-readme-stats.vercel.app/api?username=jovid1242&show_icons=true&theme=radical">
