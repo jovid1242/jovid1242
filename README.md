@@ -17,14 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Front-end developer
 
-
-
-<p align="center">
-    <img alt="Shaggy's Activity Graph"
-        src="https://github-readme-activity-graph.vercel.app/graph/?username=iqbolshoh&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
-        align="center" width="100%" />
-</p>
-
+ 
 <p style="margin: 40px 0">
    <a href="https://github-readme-stats.vercel.app/api?username=jovid1242&show_icons=true&theme=radical">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=jovid1242&show_icons=true&theme=radical"/></a>
