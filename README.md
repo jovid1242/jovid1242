@@ -41,9 +41,6 @@ Here are some ideas to get you started:
   <a href="https://t.me/+79124544922">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
  </a>
- <a href="https://wa.me/992881070990" style="margin: 0 0 0 20px">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
- </a> 
 </p>
 
 ## Languages
