@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  ## Contacts:
   
 <p style="margin: 0 20px">
-  <a href="https://t.me/+79124544922">
+  <a href="https://t.me/jovid1208">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
  </a>
 </p>
