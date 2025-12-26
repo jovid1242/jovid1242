@@ -25,13 +25,13 @@ Here are some ideas to get you started:
         align="center" width="100%" />
 </p>
  
-<p style="margin: 40px 0; display: flex; 
+<!-- <p style="margin: 40px 0; display: flex; 
     gap: 24px;">
    <a href="https://github-readme-stats.vercel.app/api?username=jovid1242&show_icons=true&theme=radical">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=jovid1242&show_icons=true&theme=radical"/></a>
    <a href="https://github.com/jovid1242/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovid1242&layout=compact"/></a>
-</p
+</p -->
   
 ##
   
